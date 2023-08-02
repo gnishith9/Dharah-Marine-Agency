@@ -1,0 +1,21 @@
+Server side:
+    - Server Setup
+    - Routes
+        - Home
+            -
+        - Our Services
+        - Contact
+            -Form Route
+                - Database Integration
+                - Map
+    - Hosting
+    - Deployment
+
+Client side: (Convert to React)
+    - Home Page
+        - Dock Video
+        - Photos Grid
+        - Social Links
+    - Our Services
+        - Photos Grid
+        - Services
